@@ -1,6 +1,6 @@
 const chalk = require('chalk');
 const print = require('./print');
-const leaderBoard = require('./leaderBoard');
+const leaderBoard = require('./leaderboard');
 const startQuiz = require('./startQuiz');
 
 function displayLeaderBoard() {
@@ -22,7 +22,7 @@ function listHighScorers() {
   let output = '';
   leaderBoard.forEach((user) => {
     output += chalk.blue(
-      `                 ${user.id} | ${user.name} | ${user.score}\n`
+      `                       ${user.id} | ${user.name} | ${user.score}\n`
     );
   });
   print(output);
