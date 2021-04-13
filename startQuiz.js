@@ -8,7 +8,7 @@ let finalScore = 0;
 
 function startQuiz() {
   const name = readline.question(chalk.magenta(`   What's your name? `));
-  leaderBoard.push({ id: 5, name, score: 0 });
+  // leaderBoard.push({ id: 5, name, score: 0 });
   print(
     chalk.green(`\n   Welcome ${name}. Let's start the quiz. Wish you best!\n`)
   );

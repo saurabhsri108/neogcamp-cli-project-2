@@ -15,3 +15,15 @@ Play the quiz to check your health knowledge related to weight loss
    ```
 
 2. Or you can play online at [repl.it placeholder]
+
+## Screenshots
+
+![Welcome Screen](./screenshot1.png)
+![Start Quiz](./screenshot2.png)
+![During Quiz](./screenshot3.png)
+
+## Future updates?
+
+1. Maybe Leader board storage mechanism to show top 10 users' score
+
+2. Convert to ReactJS Mini Application with Firebase User features
