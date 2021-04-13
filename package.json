@@ -1,0 +1,25 @@
+{
+  "name": "weightloss-quiz",
+  "version": "1.0.0",
+  "description": "Simple Quiz CLI App on Fat Loss",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Saurabh Srivastava",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasudeveloper001/neoghealthquizapp"
+  },
+  "keywords": [
+    "fatloss-quiz",
+    "weightloss-quiz",
+    "neog-level0"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "loading-indicator": "^2.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
