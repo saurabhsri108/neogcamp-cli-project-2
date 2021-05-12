@@ -22,7 +22,7 @@ function listHighScorers() {
   let output = '';
   leaderBoard.forEach((user) => {
     output += chalk.blue(
-      `                 ${user.id} | ${user.name} | ${user.score}\n`
+      `                       ${user.id} | ${user.name} | ${user.score}\n`
     );
   });
   print(output);
