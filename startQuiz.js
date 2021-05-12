@@ -2,7 +2,7 @@ const readline = require('readline-sync');
 const chalk = require('chalk');
 const print = require('./print');
 const quiz = require('./quiz');
-const leaderBoard = require('./leaderBoard');
+const leaderBoard = require('./leaderboard');
 
 let finalScore = 0;
 

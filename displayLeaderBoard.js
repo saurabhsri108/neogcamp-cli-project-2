@@ -1,6 +1,6 @@
 const chalk = require('chalk');
 const print = require('./print');
-const leaderBoard = require('./leaderBoard');
+const leaderBoard = require('./leaderboard');
 const startQuiz = require('./startQuiz');
 
 function displayLeaderBoard() {
