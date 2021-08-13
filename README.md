@@ -14,7 +14,7 @@ Play the quiz to check your health knowledge related to weight loss
    npm install && npm start
    ```
 
-2. Or you can play online at [repl.it placeholder]
+2. Or you can play online at [Health Quiz App](https://replit.com/@saudev001/neoghealthquizapp?v=1)
 
 ## Screenshots
 
